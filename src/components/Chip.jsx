@@ -143,4 +143,4 @@ export const StatusChip = ({
   );
 };
 
-export default Chip;
+export { Chip as default, Chip };
